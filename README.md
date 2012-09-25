@@ -9,4 +9,11 @@ Here is a tutorial : http://www.vogella.com/articles/Git/article.html
 	become a null one, then the folder will not sync in github.
 
 I am now starting to finish Chap 1 and start Chap 2. Today is Sept 25, 2012.
+Everything can not go well if you have no plan and follow it.
+Be Efficient! 
 
+The total page is only 166 with 8 Chapters. In order to finish in 1 month. I need to finish 1 chapter in 5 days.
+
+Here is my records:
+
+0925: Chapter 1 finishing...
