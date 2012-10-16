@@ -1,9 +1,11 @@
 Here is my records:
 
 0925: Chapter 1 finishing...
+1015: still in Chapter 1.... 1 month past
 
 
 
+solutions also can be found: http://krsolutions.webs.com/chapter1.htm
 
 
 After so long a while I finally setup my github accout and create several files and folders on the remote Repo.
