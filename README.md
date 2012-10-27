@@ -5,7 +5,10 @@ Here is my records:
 
 
 
-solutions also can be found: http://krsolutions.webs.com/chapter1.htm
+solutions also can be found: 
+
+http://krsolutions.webs.com/chapter1.htm
+http://stevenscs.com/programs/KR/$progs/KR-EX1-14.html
 
 
 After so long a while I finally setup my github accout and create several files and folders on the remote Repo.
