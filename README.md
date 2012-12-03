@@ -2,6 +2,15 @@ Here is my records:
 
 0925: Chapter 1 finishing...
 1015: still in Chapter 1.... 1 month past
+1202: still in Chapter 1
+
+
+
+for compiling C and running it, check:
+http://community.linuxmint.com/tutorial/view/860
+
+basically, just type: gcc name.c -o exefile_name
+		   then type: ./exefile_name
 
 
 
