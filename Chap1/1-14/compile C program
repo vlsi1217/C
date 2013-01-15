@@ -1,0 +1,7 @@
+it is much easier and faster to compile C program in Ubuntu than in Win7.
+
+Only 3 steps:
+1. Create a .c file in a foler. i.e.: Here I use /home/KR-C
+2. get into the destination in "terminal" and compile it by typing:
+	gcc filename.c -o filename
+3. run the compiled executable file by typing: ./filename
