@@ -1,3 +1,4 @@
+[sourcecode wraplines="true" collapse="true" language="text"]
 Jan 15, 2013
 1. Finish K & R
 2. CMOS simulation book
@@ -5,6 +6,7 @@ Jan 15, 2013
 4. DDCA
 
 Jan 14, 2013
-1. Finish K & R Chap 2 (FAILED: only stopped at 2.7. Focus)
+1. K &amp;R Cha</del>p 2 finish (only finish to 2.7. Focus)
 2. Check David Marr's Vision
 3. 1st developed my wordpress website
+[/sourcecode]
