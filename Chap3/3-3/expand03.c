@@ -27,10 +27,11 @@ int main()
 
 void expand(char s1[], char s2[])
 {
-	int i, j, pre, pos;
-	for(i=0, j=0; s1[i++]!='\0'; ){
-		if(s1[i]=='-' && i > 0 && (pre = s1[i-1]) < (pos = s1[i+1])){
-			for(; s2[j-1] < pos; j++){
+	int i, j, nm;
+	nm = 0;
+	for(i=0, j=0; s1[i]!='\0'; i++){
+		if(s1[i]=='-' && i>0 && s1[i-1] < s1[i+1]){
+			for(s2[j-1] = s1[i-1]; s2[j-1] < s1[i+1]; j++){
 				s2[j]=s2[j-1] + 1;
 			}
 		}else
