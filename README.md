@@ -26,3 +26,7 @@ Be Efficient!
 
 The total page is only 166 with 8 Chapters. In order to finish in 1 month. I need to finish 1 chapter in 5 days.
 
+//--------------------------------------//
+Update. Today is July 21, 2013
+now I can continue to work on K & R and Algorithms, finish before Aug 20 and work on CC150/leetcode in Fall 2013.
+
